@@ -1,0 +1,3 @@
+The git init command is used to initialize a new Git repository in the current working directory. When you create a new project or want to start version controlling an existing project using Git, you typically run this command to set up the repository.
+
+Here's what git init does:
